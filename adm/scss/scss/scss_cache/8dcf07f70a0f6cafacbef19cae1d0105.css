@@ -1,0 +1,3 @@
+/* compiled by scssphp v0.0.12 on Wed, 12 Oct 2016 02:44:17 +0200 (0.0217s) */
+
+.btn{background:transparent;font-weight:bold;border:3px solid #2c3e50;height:auto;color:#2c3e50;}.btn:hover,.btn:focus{background:#2c3e50;color:#fff;}.tombolmenu .col{padding:0;margin-bottom:20px;}.tombolmenu a{color:#333;}.tombolmenu i{font-size:30px;}.tbl a{color:#333;}.tbl i{font-size:30px;}.action a{color:#333;}.action i{padding-right:20px;}.ctr{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;float:none !important;margin:auto;}.content{width:100%;float:left;}
